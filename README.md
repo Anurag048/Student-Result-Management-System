@@ -155,3 +155,10 @@ Summary:
 - Required production env vars:
   - Backend: `MONGO_URI`, `JWT_SECRET`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `ADMIN_USERNAME`, `CORS_ORIGIN`
   - Frontend: `VITE_API_URL`
+
+https://srmss-gamma.vercel.app/login visit this for live usage
+user'ids:
+email password
+admin@example.com admin
+teacher1@gmail.com teacher1
+anurag@gmail.com anurag
